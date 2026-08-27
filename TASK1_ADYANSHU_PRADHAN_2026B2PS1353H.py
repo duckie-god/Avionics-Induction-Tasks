@@ -1,3 +1,9 @@
+# pip install streamlit numpy pandas plotly
+# To run the app, in the terminal use the command: python -m streamlit run TASK1_ADYANSHU_PRADHAN_2026B2PS1353H.py
+# OR if above doesn't work use: streamlit run TASK1_ADYANSHU_PRADHAN_2026B2PS1353H.py
+# Streamlit should open at http://localhost:8501
+# Use the sidebar for controls
+
 import time
 import numpy as np
 import pandas as pd
