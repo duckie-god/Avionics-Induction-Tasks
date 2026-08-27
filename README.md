@@ -15,7 +15,6 @@ Unfortunately they are not, only Odysseus was fated to return back to Ithaca... 
 
 ## How I Approached the Task
 
-The task can be divided into **three parts**:
 ### 1. Grabbing the Data
 ```python
 df = pd.read_csv(path)
