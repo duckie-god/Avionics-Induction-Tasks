@@ -7,9 +7,9 @@ TINKERCAD LINK: https://www.tinkercad.com/things/jfOQjMdPOwV-adyanshupradhan2026
 
 # Task 1: Keeping Watch Over Odysseus
 
-*"Odysseus and his crew are fated to make it back to Ithaca."*
+>*"Odysseus and his crew are fated to make it back to Ithaca."*
 
-Unfortunately they are not, only Odysseus was fated to return back to Ithaca... but I suppose are as Athena's intern we are tasked with the minor task of changing fate itself with our ***proprietary real-time depth monitoring dashboard built with Streamlit and Plotly, designed to ingest all sorts of noisy, error riddled sensor feed, clean it up, smooth it out, and sound the alarm before the hull meets the seabed.™***
+>Unfortunately they are not, only Odysseus was fated to return back to Ithaca... but I suppose are as Athena's intern we are tasked with the minor task of changing fate itself with our ***proprietary real-time depth monitoring dashboard built with Streamlit and Plotly, designed to ingest all sorts of noisy, error riddled sensor feed, clean it up, smooth it out, and sound the alarm before the hull meets the seabed.™***
 
 ![Athena](https://media1.tenor.com/m/46cPe90oJdwAAAAC/aeolus-gigi.gif)
 
