@@ -1,3 +1,9 @@
+# LINKS
+VIDEO DEMO OF THE GRAPH IN TASK 1: https://drive.google.com/file/d/1rtJFucZZG-jzJXR667OVSMjyXvwqLdK8/view?usp=sharing
+TINKERCAD LINK: https://www.tinkercad.com/things/jfOQjMdPOwV-adyanshupradhan2026b2ps1353h?sharecode=xFk-bbgp52ltXBOd__MkTreDqqn2OcCLENuQBg0nJzA
+
+--------------------------------------------------------------------------------------------------------------------------
+
 # Task 1: Keeping Watch Over Odysseus
 
 *"Odysseus and his crew are fated to make it back to Ithaca."*
