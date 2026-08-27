@@ -149,7 +149,7 @@ For animating Streamlit just re-runs our entire script top-to-bottom every time 
 # Task 2: Keeping Watch Over Odysseus
 
 > *"Athena wants an easier way to monitor Odysseus and his crew without watching over them herself."*\
-> In this task we again answer Athena's call as her unpaid intern with an Arduino-based monitoring system that watches the sea for you.
+> In this task we again answer Athena's call as her unpaid intern but this time with an Arduino-based monitoring system that watches the sea for Odysseus' crew.
 
 ![Athena](https://media1.tenor.com/m/AMy6LtBlm1UAAAAd/athena-epic-the-musical.gif)
 
