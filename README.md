@@ -5,7 +5,7 @@ TINKERCAD LINK: https://www.tinkercad.com/things/jfOQjMdPOwV-adyanshupradhan2026
 
 --------------------------------------------------------------------------------------------------------------------------
 
-# Task 1: Keeping Watch Over Odysseus
+# Task 1: Finding the Sea Floor
 
 >*"Odysseus and his crew are fated to make it back to Ithaca."*
 
