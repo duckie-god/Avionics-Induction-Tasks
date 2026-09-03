@@ -133,7 +133,7 @@ void loop() {
       dangerStartTime = millis();
     }
     // If we were already in danger last loop, dangerStartTime is left
-    // untouched -- whether the same calamity continues, a second one
+    // untouched, whether the same calamity continues, a second one
     // joins, or one calamity is replaced by the other, the timer keeps
     // counting from when danger FIRST began. This is what satisfies
     // "the timer shouldn't reset, just continue."
